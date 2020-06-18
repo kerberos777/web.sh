@@ -32,3 +32,4 @@ green "======================="
 	cd ..
 	cp -a ./web/* /usr/share/nginx/html
 systemctl restart nginx.service
+    red "done!"
